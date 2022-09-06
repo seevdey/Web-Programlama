@@ -1,0 +1,108 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container" style="margin-top:50px;">
+    <div style="color:chocolate">
+        <h2>ANKET SORU SAYFASI</h2>
+    </div>  
+    <br />
+
+    <div class="table">
+        @using (Html.BeginForm("Sonuc", "Home", FormMethod.Post))
+        {
+           
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <table class=" table table-bordered">
+                <tr>
+                    <th>
+                        <label for="exampleInputCheck">Tokat'ta Bulunan Camiler Hangisi veya Hangileridir?</label>
+                    </th>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question1" value="Ali Paşa Camii" id="exampleCheck1">
+                        @Html.Label("AliPaşa Camii")
+                    </td>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question1" value="Takyeciler Camii" id="exampleCheck2">
+                        @Html.Label("Takyeciler Camii")
+                    </td>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question1" value="Ulu Camii" id="exampleCheck3">
+                        @Html.Label("Ulu Camii")
+                    </td>
+                </tr>
+                
+                <tr>
+                    <th>
+                        <label for="exampleInputCheck"> Tokat'ta Bulunan Tarihi Yapılar Hangisi veya Hangileridir?</label>
+                    </th>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question2" value="Taşhan" id="exampleCheck4">
+                        @Html.Label("Taşhan")
+                    </td>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question2" value="Yerebatan Sarnıcı" id="exampleCheck5">
+                        @Html.Label("Yerebatan Sarnıcı")
+                    </td>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question2" value="Düden Şelalesi" id="exampleCheck6">
+                        @Html.Label("Düden Şelalesi")
+                    </td>
+                </tr>
+
+                <tr>
+                    <th> <label for="exampleInputCheck">Tokat'ın Meşhur Yemekleri Hangisi veya Hangileridir ?</label></th>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question3" value="Tokat Kebabı" id="exampleCheck7">
+                        @Html.Label("Tokat Kebabı")
+                    </td>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question3" value="Bat" id="exampleCheck8">
+                        @Html.Label("Bat")
+                    </td>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question3" value="Künefe" id="exampleCheck9">
+                        @Html.Label("Künefe")
+                    </td>
+                </tr>
+
+                <tr>
+                    <th><label for="exampleInputCheck">Tokat'ı tekrar ziyaret etmek ister misiniz?</label></th>
+
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question4" value="Evet" id="exampleCheck10">
+                        @Html.Label("Evet")
+                    </td>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question4" value="Hayır" id="exampleCheck11">
+                        @Html.Label("Hayır")
+                    </td>
+                    <td>
+                        <input type="checkbox" class="form-check-input" name="question4" value="Asla" id="exampleCheck12">
+                        @Html.Label("Asla")
+                    </td>
+                </tr>
+
+                <tr>
+                    <td><label for="exampleInputText5">Tokat denince ilk akla gelen nedir? </label></td>
+
+                    <td> <input type="text" id="text" name="text" @*data-val="true" data-val-required="no"*@></td>
+                    @Html.ValidationMessage("text")
+                </tr>
+                <tr>
+                    <td>
+                        <br />
+                        <p>Bitirmek ve anket sonuçlarını görmek için GÖNDER butonuna bas</p>
+                        <div class="x">
+                            <button type="submit" class="btn btn-success">GÖNDER</button>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+        }
+
+    </div>
+
+</div>

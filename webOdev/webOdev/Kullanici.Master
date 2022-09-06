@@ -1,0 +1,98 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Kullanici.master.cs" Inherits="webOdev.Kullanici" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+        integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href="/css.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="ust-bolge">
+            <div class="logo">
+                <a href="AnaSayfa.aspx">
+                    <img border="0" title="Anasayfa" src="/logo/logo.jpg">
+                </a>
+            </div>
+
+            <div class="menu">
+                <ul>
+                    <li><a href="AnaSayfa.aspx">Anasayfa</a></li>
+                    <li><a href="hakkimizda.aspx">Hakkımızda</a></li>
+                    <li><a href="iletisim.aspx">İletişim</a></li>     
+                </ul>
+            </div>
+
+            <div class="icon">
+                <a href="https://instagram.com/tokatbelediyesi/" target="_blanck" title="İnstagram">
+                    <i class="fab fa-instagram"></i></a>
+
+                <a href="https://www.youtube.com/c/TokatBelediyeBaşkanlığı" target="_blanck" title="Youtube">
+                    <i class="fab fa-youtube"></i></a>
+
+                <a href="https://twitter.com/TokatBelediye" target="_blanck" title="Twitter">
+                    <i class="fab fa-twitter"></i></a>
+
+                <a href="https://www.facebook.com/TokatBelediyeBaskanligi" target="_blanck" title="Facebook">
+                    <i class="fab fa-facebook-f"></i></a>
+            </div>
+        </div>
+
+
+        <div class="bosluk" style="margin-left: 250px; width: 1050px; height: 30px;"></div>
+
+        <div class="ust-menu" style="height: 250px; width: 1050px; margin-left: 250px;">
+            <div class="resim">
+                <marquee scrollamount="15"> 
+			<img src="/img/hidirlik-köprüsü.jpg" title="Hıdırlık Köprüsü" &nbsp &nbsp &nbsp> 
+			<img src="/img/almus-baraji.jpg" title= "Almus Barajı" &nbsp &nbsp &nbsp> 
+			<img src="/img/alipasa.jpg" title= "Ali Paşa Cami" &nbsp &nbsp &nbsp> 
+			<img src="/img/akbelen-yaylasi.jpg" title= "Akbelen Yaylası" &nbsp &nbsp &nbsp>
+			<img src="/img/yazmacilar-hani.jpg" title= "Yazmacılar Hanı" &nbsp &nbsp &nbsp> 
+			<img src="/img/topcam-yaylasi.jpg" title= "Topçam Yaylası" &nbsp &nbsp &nbsp>
+		</marquee>
+            </div>
+        </div>
+
+        <div class="bosluk" style="height: 30px; width: 1050px; margin-left: 250px;"></div>
+
+        <div class="bosluk3" style="margin-left: 250px; width: 1050px; height: 300px;">
+            <div class="bosluk3-ic" style="width: 230px; float: left; height: 150px; background-color: ghostwhite; margin-left: 0px;">
+
+                <div class="menu-2">
+                    <ul>
+                        <li><a href="tarihi.aspx">Tarihi ve Turistik Yerler</a></li>
+                        <li><a href="piknik.aspx">Piknik Alanları</a></li>
+                        <li><a href="restoran.aspx">Yemek için Alternatif Mekanlar</a></li>
+                        <li><a href="urun.aspx">Şehre Ait Ürünler ve Siparişi</a></li>
+                        <li><a href="sikayet.aspx">Şikayet</a></li>
+                        <p>FİNAL</p>
+                        <li><a href="anket.aspx">Anket</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="bosluk3-ic2" style="width: 730px; float: left; height: auto; background-color: ghostwhite; margin-left: 70px;">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            
+        </div>
+
+        <div class="bosluk" style="height: 30px; width: 1050px; margin-left: 250px;"></div>
+        
+         <div class = "footers" style ="width: 1050px; height:60px;margin-left:250px;background: #fff;" >
+            <footer>
+                @TOGU CENG 2020 - Sevdenur YILMAZ
+            </footer>
+            <br />           
+        </div>
+    </form>
+</body>
+</html>

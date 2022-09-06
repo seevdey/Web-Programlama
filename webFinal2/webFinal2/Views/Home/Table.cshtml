@@ -1,0 +1,56 @@
+﻿@model webFinal2.Models.Soru
+
+@{
+    ViewBag.Title = "Table";
+}
+
+<br />
+<div style="color:olivedrab">
+    <h2>ANKET SONUÇ SAYFASI</h2>
+</div>
+
+<br />
+
+
+<table id="cevapListesi" style="width:100%">
+    <thead>
+        <tr>
+            <th>SORU 1</th>
+            <th>SORU 2</th>
+            <th>SORU 3</th>
+            <th>SORU 4</th>
+            <th>SORU 5</th>
+            <th>SİL</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+        @foreach (var item in Model.soruList)
+        {
+            <tr>
+
+                <td>@item.question1</td>
+                <td>@item.question2</td>
+                <td>@item.question3</td>
+                <td>@item.question4</td>
+                <td>@item.text</td>
+
+                <td>
+                    <input type="submit" name="btn" value="SİL" class="btn btn-danger btnSil" data-id="@item.question1" />
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+<link href="~/Content/DataTables/css/dataTables.bootstrap4.css" rel="stylesheet" />
+<script type="text/javascript" src="//cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+
+<script>
+    $("#cevapListesi").DataTable();
+</script>
+
+
+
+

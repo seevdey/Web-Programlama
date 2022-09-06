@@ -1,0 +1,82 @@
+﻿.ust-bolge {
+    width: 1050px;
+    height: 100px;
+    margin-left: 250px;
+    background-color: ghostwhite;
+}
+
+.logo img {
+    width: 103px;
+    height: 70px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 50px;
+}
+
+.menu {
+    width: 400px;
+    height: 60px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+    .menu ul li {
+        float: left;
+        list-style-type: none;
+        line-height: 50%;
+        padding: 10px;
+        font-size: 20px;
+    }
+
+        .menu ul li a {
+            color: black;
+            text-decoration: none;
+            font-family: sans-serif;
+        }
+
+            .menu ul li a:hover {
+                font-size: 25px;
+                color: blueviolet;
+            }
+
+.menu-2 {
+    font-family:Calibri;
+    margin-top:20px;
+}
+
+    .menu-2 ul li a {
+        color: black;
+        text-decoration: none;
+    }
+
+        .menu-2 ul li a:hover {
+            font-size: 18px;
+            color: indianred;
+        }
+
+
+.icon {
+    width: 200px;
+    height: 50px;
+    float: right;
+    margin-right: 140px;
+    margin-top: 45px;
+    line-height: 50%;
+    margin-bottom: 30px;
+}
+
+.resim img {
+    /*width: 100%;*/
+    height: 250px;
+}
+
+
+.footers footer {
+    margin-top: 30px;
+    font-size: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    color: brown;
+}
+

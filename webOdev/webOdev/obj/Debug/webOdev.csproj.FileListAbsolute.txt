@@ -1,0 +1,336 @@
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\webOdev.dll.config
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\webOdev.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\webOdev.pdb
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\web\webOdev\webOdev\obj\Debug\webOdev.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\web\webOdev\webOdev\obj\Debug\webOdev.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\web\webOdev\webOdev\obj\Debug\webOdev.csproj.CopyComplete
+C:\Users\ACER\Desktop\web\webOdev\webOdev\obj\Debug\webOdev.dll
+C:\Users\ACER\Desktop\web\webOdev\webOdev\obj\Debug\webOdev.pdb
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\webOdev.dll.config
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\webOdev.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\webOdev.pdb
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\csc.exe
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\csc.exe.config
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\csc.rsp
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\csi.exe
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\csi.exe.config
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\csi.rsp
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.AppContext.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Console.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.IO.Compression.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Security.Claims.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.ValueTuple.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\vbc.exe
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\vbc.exe.config
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\vbc.rsp
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\obj\Debug\webOdev.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\obj\Debug\webOdev.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\obj\Debug\webOdev.csproj.CopyComplete
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\obj\Debug\webOdev.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\obj\Debug\webOdev.pdb
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\webOdev.dll.config
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\webOdev.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\webOdev.pdb
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\csc.exe
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\csc.exe.config
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\csc.rsp
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\csi.exe
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\csi.exe.config
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\csi.rsp
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.AppContext.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Console.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.IO.Compression.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Claims.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.ValueTuple.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\vbc.exe
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\vbc.exe.config
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\vbc.rsp
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\obj\Debug\webOdev.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\obj\Debug\webOdev.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\obj\Debug\webOdev.csproj.CopyComplete
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\obj\Debug\webOdev.dll
+C:\Users\pc\Desktop\SEVDE\web\webOdev\webOdev\webOdev\obj\Debug\webOdev.pdb
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\webOdev.dll.config
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\webOdev.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\webOdev.pdb
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\csc.exe
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\csc.exe.config
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\csc.rsp
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\csi.exe
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\csi.exe.config
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\csi.rsp
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.AppContext.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Console.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.IO.Compression.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Claims.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.ValueTuple.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\vbc.exe
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\vbc.exe.config
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\vbc.rsp
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\obj\Debug\webOdev.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\obj\Debug\webOdev.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\obj\Debug\webOdev.csproj.CopyComplete
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\obj\Debug\webOdev.dll
+C:\Users\pc\Desktop\SEVDE\web\son\webOdev\webOdev\webOdev\obj\Debug\webOdev.pdb
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\webOdev.dll.config
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\webOdev.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\webOdev.pdb
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\obj\Debug\webOdev.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\obj\Debug\webOdev.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\obj\Debug\webOdev.csproj.CopyComplete
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\obj\Debug\webOdev.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\webOdev\webOdev\webOdev\webOdev\obj\Debug\webOdev.pdb
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\webOdev.dll.config
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\webOdev.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\webOdev.pdb
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\csc.exe
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\csc.exe.config
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\csc.rsp
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\csi.exe
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\csi.exe.config
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\csi.rsp
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.AppContext.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Console.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.IO.Compression.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Security.Claims.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.ValueTuple.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\vbc.exe
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\vbc.exe.config
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\vbc.rsp
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\obj\Debug\webOdev.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\obj\Debug\webOdev.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\obj\Debug\webOdev.csproj.CopyComplete
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\obj\Debug\webOdev.dll
+C:\Users\ACER\Desktop\SEVDE\3.SINIF - GÜZ\WEB PROGRAMLAMA\VİZE\180508036_Sevdenur_Yilmaz\webOdev\webOdev\obj\Debug\webOdev.pdb
